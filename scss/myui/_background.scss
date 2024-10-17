@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  overflow-x: hidden;
+
+  .container-fluid {
+    background: linear-gradient(292.92deg, #e6e6e4 7.23%, #f0e8e2 97.74%);
+    padding-bottom: 5em;
+  }
+}
